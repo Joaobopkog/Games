@@ -1,0 +1,103 @@
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Games</title>
+</head>
+
+<body>
+    <header>Games</header>
+
+<section class="chamada">
+        <div class="chamada-texto">
+            <h1>The Crew Motorfest! Disputa com o Forza Horizon</h1>
+            <p>#crewmotorfest</p>
+        </div>
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/2S-A3z866YI?si=4gKKyV0NUM_A2bl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+<section class="categoria">
+    <h2>Esportes</h2>
+    <div class="categoria-Trailers">
+        <a href="https://www.youtube.com/watch?v=XhP3Xh4LMA8">
+            <img src="https://img.youtube.com/vi/XhP3Xh4LMA8/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=MCU18y25WeQ">
+            <img src="https://img.youtube.com/vi/MCU18y25WeQ/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=1tBUsXIkG1A">
+            <img src="https://img.youtube.com/vi/1tBUsXIkG1A/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=4paYDD0WIVY">
+            <img src="https://img.youtube.com/vi/4paYDD0WIVY/maxresdefault.jpg" />
+        </a>
+    </div>
+</section>
+
+
+<section class="categoria">
+    <h2>Fps</h2>
+    <div class="categoria-Trailers">
+        <a href="https://www.youtube.com/watch?v=6wlvYh0h63k">
+            <img src="https://img.youtube.com/vi/6wlvYh0h63k/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=c80dVYcL69E">
+            <img src="https://img.youtube.com/vi/c80dVYcL69E/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=QdBZY2fkU-0">
+            <img src="https://img.youtube.com/vi/QdBZY2fkU-0/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=J6gnOVJsCsM">
+            <img src="https://img.youtube.com/vi/J6gnOVJsCsM/maxresdefault.jpg" />
+        </a>
+    </div>
+</section>
+
+
+<section class="categoria">
+    <h2>Terror</h2>
+    <div class="categoria-Trailers">
+        <a href="https://www.youtube.com/watch?v=Id2EaldBaWw">
+            <img src="https://img.youtube.com/vi/Id2EaldBaWw/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=MEWgOlTIW4Y">
+            <img src="https://img.youtube.com/vi/MEWgOlTIW4Y/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=pnbxcNmUcQo">
+            <img src="https://img.youtube.com/vi/pnbxcNmUcQo/maxresdefault.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=sRa9oeo5KiY">
+            <img src="https://img.youtube.com/vi/sRa9oeo5KiY/maxresdefault.jpg" />
+        </a>
+    </div>
+</section>
+
+
+<section class="categoria">
+        <h2>Rpg</h2>
+        <div class="categoria-Trailers">
+            <a href="https://www.youtube.com/watch?v=x6oF3Jxu7X0">
+                <img src="https://img.youtube.com/vi/x6oF3Jxu7X0/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=OotQrKEqe94">
+                <img src="https://img.youtube.com/vi/OotQrKEqe94/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=53MyR_Z3i1w">
+                <img src="https://img.youtube.com/vi/53MyR_Z3i1w/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=HLUY1nICQRY">
+                <img src="https://img.youtube.com/vi/HLUY1nICQRY/maxresdefault.jpg" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
